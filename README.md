@@ -1,5 +1,15 @@
 # Data Science Portfolio
 
+Name: Amelia Pucek
+
+Date: April ,2026
+
+Course: CS-215
+
+Project: Week 9 Learning Log
+
+---
+
 ## Final Project Ideas
 
 Below are three potential project directions for my final data analysis project.
