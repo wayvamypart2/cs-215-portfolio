@@ -47,3 +47,44 @@ I used a combination of general curiosity and exploring what kinds of datasets a
 ## Time spent
 
 Approximately: 2 hours
+
+---
+
+## Week 10 Update
+
+### Project Format
+I'll be completing this project individually.
+
+---
+
+### Final Project Topic
+My final project focuses on analyzing global literacy rates and education inequality across countries and over time using real-world data.
+
+I'll be using literacy rate data from **Our World in Data** to explore how literacy outcomes differ globally and how they have changed over time.
+
+---
+
+### Data Source
+
+**Our World in Data – Literacy Rates Dataset**
+- Pros:
+  - Clean and well-structured dataset
+  - Covers many countries and time periods
+  - Easy to visualize trends over time
+- Cons:
+  - Some missing values for certain countries and years
+  - Limited additional contextual variables compared to multi-source APIs
+
+---
+
+### Research Questions
+
+1. How have global literacy rates changed over time?
+2. Which countries have the highest and lowest literacy rates?
+3. How do literacy rates differ across regions?
+4. Which countries experienced the largest literacy improvements over time?
+
+---
+
+### Project Summary
+My analysis focuses on identifying global patterns in literacy rates, comparing countries and regions, and examining long-term improvements in education access. I'll be exploring trends and visualizing differences across countries and time periods.
