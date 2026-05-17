@@ -17,8 +17,6 @@ My main area of interest is global literacy rates and education inequality.
 
 ---
 
-## Final Project Ideas
-
 ### Idea 1: Global Literacy Rates Over Time
 - How have global literacy rates changed over the last 50 years?
 - Which regions have improved the most/least in literacy rates?
